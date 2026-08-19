@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sukrit",
+        "email": "test1@example.com",
+        "field": "Computer Science"
+    },
+    {
+        "name": "Ramesh",
+        "email": "test2@example.com",
+        "field": "Data Science"
+    },
+    {
+        "name": "Ravi",
+        "email": "test3@example.com",
+        "field": "Data Science"
+    },
+    {
+        "name": "Rohit",
+        "email": "test4@example.com",
+        "field": "Computer Science"
+    },
+    {
+        "name": "Ayush",
+        "email": "test5@example.com",
+        "field": "Computer Science"
+    },
+    {
+        "name": "Rahul",
+        "email": "test6@example.com",
+        "field": "Information Technology"
+    },
+    {
+        "name": "Raghav",
+        "email": "test7@example.com",
+        "field": "Machine Learning"
+    },
+    {
+        "name": "Sukrit",
+        "email": "test8@example.com",
+        "field": "Artificial Intelligence"
+    }
+]
